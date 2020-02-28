@@ -109,7 +109,7 @@ LANGUAGE_CODE = 'pt-br'
 TIME_ZONE = 'America/Sao_paulo'
 
 # Caso não faça traduções deixar desativado
-USE_I18N = False
+USE_I18N = True
 
 USE_L10N = True
 
